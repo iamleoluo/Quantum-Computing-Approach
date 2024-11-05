@@ -6,7 +6,7 @@ The `qiskit.BasicAer` object is not available in Qiskit 1.0. See the [basicaer m
 
 The `qiskit.Aer` object is not available in Qiskit 1.0. Instead, use the same object from the `qiskit_aer` namespace, which is a drop-in replacement. To install `qiskit_aer`, run:
 
-```bash
+```cmd
 pip install qiskit-aer
 ```
 
