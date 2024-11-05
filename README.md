@@ -1,8 +1,7 @@
 # Quantum Computing Approach
 
 **Author:** Sheng Yun Wu
-
-**Converted by:** Lo Wei Che  
+**Converted by:** Wei Che Lo 
 
 **Course Website** [https://sites.google.com/gms.ndhu.edu.tw/qca](https://sites.google.com/gms.ndhu.edu.tw/qca)
 
