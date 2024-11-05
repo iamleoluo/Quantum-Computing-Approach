@@ -53,22 +53,6 @@ To set up the project, follow these steps:
 
 ## Usage
 
-To run the simulations, follow these steps:
+Working on it, please wait.
 
-1. Launch the Python script:
-    ```bash
-    python quantum_simulation.py
-    ```
-2. Modify the script to adjust parameters for different simulations (e.g., magnetism, thermodynamics).
 
-## Contributing
-
-If you'd like to contribute to the project, feel free to submit a pull request or open an issue for discussion. Please ensure that all contributions adhere to the established guidelines and maintain the integrity of the original course material.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or further information, feel free to reach out via [Your Contact Information].
