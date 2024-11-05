@@ -46,10 +46,6 @@ To set up the project, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-3. Install IBM Qiskit:
-    ```bash
-    pip install qiskit
-    ```
 
 ## Usage
 
