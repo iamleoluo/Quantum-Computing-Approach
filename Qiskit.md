@@ -17,12 +17,11 @@ from qiskit import transpile
 
 new_circuit = transpile(circuit, backend)
 job = backend.run(new_circuit)
-
+```
 Alternatively, the Sampler primitive is semantically equivalent to the removed qiskit.execute function. The class BackendSampler is a generic wrapper for backends that do not support primitives:
-
+```
 from qiskit.primitives import BackendSampler
 
 sampler = BackendSampler(backend)
 job = sampler.run(circuit)
-
-This Markdown version is ready to be added to your `README.md`. Let me know if you need further modifications!
+```
