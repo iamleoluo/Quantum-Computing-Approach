@@ -47,40 +47,6 @@ To set up the project, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-
-Here’s the requested content entirely in Markdown for your README.md:
-
-## Qiskit 1.0 Migration Notes
-
-### BasicAer
-The `qiskit.BasicAer` object is no longer available in Qiskit 1.0. For migration options, refer to the [BasicAer Migration Documentation](#).
-
-### qiskit.execute Function
-The `qiskit.execute` function has been removed in Qiskit 1.0. This function previously acted as a high-level wrapper around the `transpile` and `run` functions. To replace `qiskit.execute`, use the `transpile` function followed by `backend.run()`.
-
-#### Legacy Code Example:
-```python
-from qiskit import execute
-job = execute(circuit, backend)
-
-Updated Code Example:
-
-from qiskit import transpile
-new_circuit = transpile(circuit, backend)
-job = backend.run(new_circuit)
-
-Sampler Primitive
-
-As an alternative to the qiskit.execute function, you can use the Sampler primitive. The BackendSampler class provides a generic wrapper for backends that do not support primitives.
-
-Example:
-
-from qiskit.primitives import BackendSampler
-sampler = BackendSampler(backend)
-job = sampler.run(circuit)
-
-This is pure Markdown and ready for use in your `README.md` file on GitHub.
-
 ## Usage
 
 Working on it, please wait.
