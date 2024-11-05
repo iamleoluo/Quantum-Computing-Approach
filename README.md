@@ -51,4 +51,13 @@ To set up the project, follow these steps:
 
 Working on it, please wait.
 
+## Contact
 
+For more information, contact the **Modern NanoMag Lab**, founded by Professor Sheng Yun Wu:
+
+**Address:**  
+Department of Physics, National Dong Hwa University  
+1-12, Sec 2, Da-Hsuen Rd., Shou-Feng, Hualien, 974 Taiwan
+
+**Phone:** +886-3-8903732  
+**Fax:** +886-3-8900166  
