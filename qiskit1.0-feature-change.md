@@ -1,6 +1,6 @@
 ## BasicAer
 
-The `qiskit.BasicAer` object is not available in Qiskit 1.0. See the [basicaer migration section](#) for migration options.
+The `qiskit.BasicAer` object is not available in Qiskit 1.0. See the [basicaer migration section](https://docs.quantum.ibm.com/migration-guides/qiskit-1.0-features#global-instances-and-functions) for migration options.
 
 ## execute
 
