@@ -40,7 +40,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/iamleoluo/Quantum-Computing-Approach.git
     ```
 2. Install the required dependencies:
     ```bash
