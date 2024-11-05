@@ -1,4 +1,4 @@
-# QUANTUM COMPUTING APPROACH
+# Quantum Computing Approach
 
 **Author:** Sheng Yun Wu
 
