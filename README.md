@@ -51,6 +51,10 @@ To set up the project, follow these steps:
 
 Working on it, please wait.
 
+## Addition Note for Qiskit 1.0 feature changes
+[Migration Guide](qiskit1.0-feature-change.md)
+for more information please check out https://docs.quantum.ibm.com/migration-guides/qiskit-1.0-features
+
 ## Contact
 
 For more information, contact the **Modern NanoMag Lab**, founded by Professor Sheng Yun Wu:
