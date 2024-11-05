@@ -2,6 +2,14 @@
 
 The `qiskit.BasicAer` object is not available in Qiskit 1.0. See the [basicaer migration section](https://docs.quantum.ibm.com/migration-guides/qiskit-1.0-features#global-instances-and-functions) for migration options.
 
+## Aer
+
+The `qiskit.Aer` object is not available in Qiskit 1.0. Instead, use the same object from the `qiskit_aer` namespace, which is a drop-in replacement. To install `qiskit_aer`, run:
+
+```bash
+pip install qiskit-aer
+```
+
 ## execute
 
 The `qiskit.execute` function is not available in Qiskit 1.0. This function served as a high-level wrapper around the `transpile` and `run` functions in Qiskit. Instead of `qiskit.execute`, use the `transpile` function followed by `backend.run()`.
