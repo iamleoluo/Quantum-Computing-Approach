@@ -52,7 +52,7 @@ To set up the project, follow these steps:
 Working on it, please wait.
 
 ## Addition Note for Qiskit 1.0 feature changes
-[Migration Guide](qiskit1.0-feature-change.md)
+Qiskit 1.0 brings new stability guarantees and performance improvements, but it does break compatibility with all previous versions of Qiskit.
 for more information please check out https://docs.quantum.ibm.com/migration-guides/qiskit-1.0-features
 
 ## Contact
